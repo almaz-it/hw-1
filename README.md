@@ -3,6 +3,8 @@
 
 Спроектируйте логическую медель данных из >=5 сущностей и реализуйте ее в БД. 
 
+wiki: https://postgrespro.ru/docs/postgresql/15/sql-createtable
+
 пример создания таблиц: 
 ```
 drop table if exists shop;
