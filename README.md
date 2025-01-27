@@ -36,3 +36,16 @@ insert into shop(name, phone, address)
 values ('tts', '+7000501', 'Kazan');
 
 ```
+
+# hw-2
+version: нужно создать файл version2.sql c изменениями структуры таблиц
+1. измение типов столбцов
+2. добавление столбцов
+3. добавление ограничений
+4. реализовать rollback этих изменений
+
+#hw-3 
+cju: нужно создать файл version3.sql написать sql запросы: 
+1. select используя cte
+2. select c join - соединение 
+3. select c union [all] - объединение 
